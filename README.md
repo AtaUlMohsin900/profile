@@ -1,7 +1,7 @@
 # github-final-project
 [![MasterHead](https://image.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)]
 <h1 align="center">Hi 👋, I'm Ata Ul Mohsin</h1>
-<h3 align="center">A passionaate web developer from Pakistan</h3>
+<h3 align="center">A passionaate Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400 src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohsin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohsin900" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **IBM Full Stack Software Developer**
 
-- 💬 Ask me about **react, python,tensorflow**
+- 💬 Ask me about **JavaScript,NodeJs,Angular**
 
 - 📫 How to reach me **ataulmohsin900@gmail.com**
 
